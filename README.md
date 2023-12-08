@@ -1,5 +1,5 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1>About me:</h1>
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) 
+<h3>About me:</h2>
 <h1 align="center">Hi 👋, I'm Mohamed Shahil</h1>
 <h3 align="center">A passionate software enthusiast diving into the exciting world of development!<br>
   <h4 align="center">🚀 As a recent graduate with a Diploma in ECE (2018),</h4> <h3 align="center">I am eager to establish a robust foundation in Software Development, focusing on Python, Java, C, and C++.<br>
@@ -12,7 +12,7 @@
  <h2 align="center"> #CodeNewbie #Python #Java #Cplusplus #SoftwareDevelopment #TechEnthusiast</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedshahilshajahan&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedshahilshajahan" /> </p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 📫 How to reach me **mohamedshahilshajahan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
