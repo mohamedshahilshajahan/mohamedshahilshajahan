@@ -14,8 +14,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedshahilshajahan&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedshahilshajahan" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 📫 How to reach me **mohamedshahilshajahan@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohamedshahilshajahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedshahilshajahan" height="30" width="40" /></a>
+</p>
 <p align="left">
 </p>
 
