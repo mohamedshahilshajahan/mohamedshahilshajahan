@@ -1,4 +1,4 @@
-[![banner.gif](https://i.postimg.cc/PfDpcCgk/banner.gif)](https://postimg.cc/MXWpfpZs)
+[![banner.gif](https://i.postimg.cc/PfDpcCgk/banner.gif)]
 <h3>About me:</h3>
 
 <h1 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7DC00&center=true&vCenter=true&random=false&width=550&height=32&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Shahil" alt="Typing SVG" /></h1>
