@@ -63,10 +63,15 @@
 <h3 align="left">Support:</h3>
 
 <div align="left" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://buymeacoffee.com/mohamedshahilshajahan">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedshahilshajahan" />
-  </a>
-  <a href="https://i.postimg.cc/XJw4pBRg/gpay.png" target="_blank">
+<a href="https://buymeacoffee.com/mohamedshahilshajahan"
+   target="_blank"
+   rel="noopener noreferrer"
+   aria-label="Buy me a coffee (opens in new tab)">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+       alt="Buy me a coffee"
+       style="height:50px; width:auto; display:block; border:0;" />
+</a>
+  <a>
     <img src="https://i.postimg.cc/XJw4pBRg/gpay.png" height="50" width=auto alt="mohamedshahilshajahan" />
   </a>
   <a href="https://paypal.me/MohamedShahil">
