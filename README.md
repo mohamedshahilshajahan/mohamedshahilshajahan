@@ -66,7 +66,7 @@
   <a href="https://buymeacoffee.com/mohamedshahilshajahan">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedshahilshajahan" />
   </a>
-  <a href="https://i.postimg.cc/XJw4pBRg/gpay.png" onclick="return false;">
+  <a>
     <img src="https://i.postimg.cc/XJw4pBRg/gpay.png" height="50" width=auto alt="mohamedshahilshajahan" />
   </a>
   <a href="https://paypal.me/MohamedShahil">
