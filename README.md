@@ -60,23 +60,17 @@
   </tr>
 </table>
 
-
 <h3 align="left">Support:</h3>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.buymeacoffee.com/jazzboss@upi">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jazzboss@upi" />
-      </a>
-    </td>
-    <td>
-      <a href="https://paypal.me/MohamedShahil">
-        <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="left" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <a href="https://www.buymeacoffee.com/jazzboss@upi">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jazzboss@upi" />
+  </a>
+  <a href="https://paypal.me/MohamedShahil">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" width="210" />
+  </a>
+</div>
+
 
 <p>
 </p>
