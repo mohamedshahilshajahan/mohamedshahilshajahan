@@ -45,7 +45,7 @@
           </picture>
         </a>
         &nbsp;
-        <a href="https://www.github.com/mohamedshahilshajahan" target="_blank" rel="noreferrer">
+        <a href="https://www.github.com/shahils" target="_blank" rel="noreferrer">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/Bn6vbKyk/github-dark.png" />
             <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/LsFL1vph/github.png" />
@@ -55,7 +55,7 @@
       </p>
     </td>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshahilshajahan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahils&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
     </td>
   </tr>
 </table>
@@ -63,23 +63,8 @@
 <h3 align="left">Support:</h3>
 
 <div align="left" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://buymeacoffee.com/mohamedshahilshajahan">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedshahilshajahan" />
-  </a>
-  <a>
-    <img src="https://i.postimg.cc/XJw4pBRg/gpay.png" height="50" width=auto alt="mohamedshahilshajahan" />
-  </a>
-  <a href="https://paypal.me/MohamedShahil">
-    <img src="https://i.postimg.cc/d3WThfdv/paypal.png" height="55" width=auto />
-  </a>
-</div>
-
-<div align="left" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <a href="https://buymeacoffee.com/mohamedshahilshajahan">
-    <img src="https://i.postimg.cc/xj76pphB/bmc-qr.png" height="210" width=auto alt="mohamedshahilshajahan" />
-  </a>
-  <a>
-    <img src="https://i.postimg.cc/5NrjCLHB/BHIM-QR.png" height="215" width=auto />
+  <a href="https://buymeacoffee.com/shahils">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shahils" />
   </a>
 </div>
 
