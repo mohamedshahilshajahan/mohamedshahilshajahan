@@ -23,8 +23,8 @@
 
 <p align="left">
   <img 
-    src="https://komarev.com/ghpvc/?username=mohamedshahilshajahan&label=Profile%20views&color=blueviolet&style=flat" 
-    alt="mohamedshahilshajahan" 
+    src="https://komarev.com/ghpvc/?username=shahils&label=Profile%20views&color=blueviolet&style=flat" 
+    alt="shahils" 
     width="200" 
     height="40" 
   />
@@ -37,7 +37,7 @@
     <td valign="top">
       <h3 align="left">Connect with me:</h3>
       <p align="left">
-        <a href="https://www.linkedin.com/in/mohamedshahilshajahan" target="_blank" rel="noreferrer">
+        <a href="https://www.linkedin.com/in/shahils" target="_blank" rel="noreferrer">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/02ZQ9ft7/linkedin-dark.png" />
             <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/XvKFcFjL/linkedin.png" />
